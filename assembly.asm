@@ -1,18 +1,4 @@
 TITLE String Primitives and Macros     (Proj6_viernesv.asm)
-
-; Author:				Virgilio Viernes 
-; Last Modified:		16 March 2021, 8:45pm
-; OSU email address:	viernesv@oregonstate.edu
-; Course number:		CS271 Section 401
-; Project Number:		6		
-; Due Date:				14 March 2021 - (USING TWO GRACE DAYS AS INDICATED ON CANVAS)
-; Description:			This program prompts the user to enter a string of values and converts the 
-;						string of ASCII characters to a signed integer and stores it to memory, ensuring
-;						that the signed integer fits in a 32-bit register. Does	this until 10 strings 
-;						have been properply converted and stored. Calculates the sum and average of these
-;						10 integers and displays these values back to the user as strings. 
-
-
 INCLUDE Irvine32.inc
 
 ;-----------------------------------------------------------------------------------------------------
